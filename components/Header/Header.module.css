@@ -1,0 +1,25 @@
+.mart_icon{
+    display: flex;
+    align-items: center;
+}
+
+.mart_logo{
+    height: 40px;
+    width: 40px;
+    object-fit: cover;
+}
+
+.nav_links a{
+    text-decoration: none;
+    color: #37c906;
+    font-size: 18px;
+    /* font-weight: 900; */
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 10px !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

@@ -1,0 +1,110 @@
+[
+    {
+        "category_name": "Groceries",
+        "id": "01",
+        "subCategories": [
+            {
+                "subid": "01",
+                "subName": "Fruits and Vegetables",
+                "route": "/fruits"
+            },
+            {
+                "subid": "01",
+                "subName": "Dairy Products",
+                "route": "/dairy"
+            },
+            {
+                "subid": "01",
+                "subName": "Snacks and Branded Foods",
+                "route": "/snacks"
+            },
+            {
+                "subid": "01",
+                "subName": "Beverages",
+                "route": "/beverages"
+            },
+            {
+                "subid": "01",
+                "subName": "Home care",
+                "route": "/homecare"
+            },
+            {
+                "subid": "01",
+                "subName": "Personal Care",
+                "route": "/personalcare"
+            }
+        ]
+    },
+    {
+        "category_name": "Premium Fruits",
+        "id": "02",
+        "subCategories": [
+            {
+                "subid": "02",
+                "subName": "Fruits and Vegetables",
+                "route": "/fruits"
+            },
+            {
+                "subid": "02",
+                "subName": "Dairy Products",
+                "route": "/dairy"
+            },
+            {
+                "subid": "02",
+                "subName": "Snacks and Branded Foods",
+                "route": "/snacks"
+            },
+            {
+                "subid": "02",
+                "subName": "Beverages",
+                "route": "/beverages"
+            },
+            {
+                "subid": "02",
+                "subName": "Home care",
+                "route": "/homecare"
+            },
+            {
+                "subid": "02",
+                "subName": "Personal Care",
+                "route": "/personalcare"
+            }
+        ]
+    },
+    {
+        "category_name": "Home and Kitchen",
+        "id": "03",
+        "subCategories": [
+            {
+                "subid": "03",
+                "subName": "Fruits and Vegetables",
+                "route": "/fruits"
+            },
+            {
+                "subid": "03",
+                "subName": "Dairy Products",
+                "route": "/dairy"
+            },
+            {
+                "subid": "03",
+                "subName": "Snacks and Branded Foods",
+                "route": "/snacks"
+            },
+            {
+                "subid": "03",
+                "subName": "Beverages",
+                "route": "/beverages"
+            },
+            {
+                "subid": "03",
+                "subName": "Home care",
+                "route": "/homecare"
+            },
+            {
+                "subid": "03",
+                "subName": "Personal Care",
+                "route": "/personalcare"
+            }
+        ]
+    }
+]
